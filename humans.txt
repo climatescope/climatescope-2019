@@ -14,7 +14,7 @@ Location: Lisbon, Portugal
 
 /* SITE */
 
-Last update: 2020/08/04
+Last update: 2020/12/21
 Standards: HTML5, CSS3, RWD
 Components: Jekyll, React, D3.js, Mapbox, Natural Earth (data)
 Software: VsCode, Atom, Eclipse, Adobe Illustrator CC, GitHub (Mac)
